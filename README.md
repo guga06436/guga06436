@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **pandas, numpy, selenium, bs4**
 
-- 📫 How to reach me **guga06436@gmail.com**
-
 - ⚡ Fun fact **I love tackling complex challenges and making automation smooth!**
 
 <h3 align="left">Connect with me:</h3>
